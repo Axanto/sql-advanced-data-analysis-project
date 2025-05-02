@@ -1,6 +1,4 @@
-# sql-advanced-data-analysis-project
-
-# Advanced Data Analytics
+# SQL Advanced Data Analytics Project
 
 This project is based on an open-source tutorial that focuses on advanced SQL techniques using complex queries, window functions, CTEs, subqueries, and reports.
 
